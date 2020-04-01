@@ -196,10 +196,10 @@ plt.show()
 Dari hasil percobaan di atas terlihat perputaran posisi gambar yang mengikuti besaran derajat rotasi yang telah ditentukan, dimana nilai teta = (phi*18/180) sehingga gambar berputar ke atas berlawanan arah jarum jam.
 
 ### 4. Projectives
-Operasi transformasi Projectives memiliki bentuk persamaan matriks berikut:
-[x']= [h11 h12 h13] [x]
-[y']= [h21 h22 h23] [y]
-[(1)]=[h31 h32 (1)] [(1)]
+Operasi transformasi Projectives memiliki bentuk persamaan matriks berikut:<br/>
+[x']= [h11 h12 h13] [x]<br/>
+[y']= [h21 h22 h23] [y]<br/>
+[(1)]=[h31 h32 (1)] [(1)]<br/>
 
 Untuk mendapatkan nilai setiap h harus ditentukan terlebih dahulu setiap pasang koordinat titik awal dan akhir.
 Dengan nilai setiap pasang koordinat titik awal dan akhir yang telah ditentukan lalu dioperasikan dengan persamaan matriks berikut:<br/>
