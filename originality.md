@@ -34,9 +34,6 @@ pr = np.linalg.inv(P) @ H
 
 # Membuat matriks untuk transformasi projectives
 PR = np.reshape(pr, [3,3])
-
-# Membuat gambar canvasProjectives sebagai wadah khusus untuk melakukan operasi proyeksi
-canvasProjectives = canvasKosong.copy()
 ```
 
 ==========================================================================================================================================
